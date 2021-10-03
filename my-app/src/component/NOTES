@@ -1,0 +1,25 @@
+What is JSX? Rules to write JSX.
+
+JSX - stands for JavaScript XML. It is simply a syntax extension of JavaScript.
+ It allows us to directly write HTML in React (within JavaScript code)
+
+It always return single element
+
+use Div or React Fragment to wrap all your JSX Code
+
+ClassName in place of class
+
+Need to close all non closing Tags in JSX
+
+Use camelCase for attributes
+
+=> To use inline style component
+ 
+ const Myvar={'color':red}  - Myvar is an object in JS
+ <div style={Myvar}> Gandu </div>
+
+
+-> Learn props at 1:15:00 thapa technical
+
+USE STATE HOOKS - it is use to manage the data
+-> It takes the initial state as an argument and returns an array of two entries
